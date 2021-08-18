@@ -1,13 +1,11 @@
 {
-  "name": "@supabase/gotrue-js",
+  "name": "@awalias-org/gotrue-js",
   "version": "0.0.0",
-  "description": "Isomorphic GoTrue client",
+  "description": "Test Deployment - Isomorphic GoTrue client",
   "keywords": [
-    "gotrue",
-    "supabase"
   ],
-  "homepage": "https://github.com/supabase/gotrue-js",
-  "bugs": "https://github.com/supabase/gotrue-js/issues",
+  "homepage": "https://github.com/awalias/gotrue-js",
+  "bugs": "https://github.com/awalias/gotrue-js/issues",
   "license": "MIT",
   "author": "Supabase",
   "files": [
@@ -16,7 +14,7 @@
   ],
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",
-  "repository": "supabase/gotrue-js",
+  "repository": "awalias/gotrue-js",
   "scripts": {
     "clean": "rimraf dist docs",
     "format": "prettier --write \"{src,test}/**/*.ts\"",
