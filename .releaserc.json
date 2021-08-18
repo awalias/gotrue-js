@@ -4,7 +4,7 @@
       "semantic-release-plugin-update-version-in-files",
       {
         "files": [
-          "src/lib/version.js"
+          "src/lib/version.ts"
         ],
         "placeholder": "0.0.0"
       }
