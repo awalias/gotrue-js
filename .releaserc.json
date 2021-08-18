@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    [
+      "semantic-release-plugin-update-version-in-files",
+      {
+        "files": [
+          "src/lib/version.js"
+        ],
+        "placeholder": "0.0.0"
+      }
+    ]
+  ]
+}
